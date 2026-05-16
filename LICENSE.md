@@ -1,4 +1,4 @@
-# 
+# high-frequency cross-margin trading bot Plugin | price-monitoring + high-frequency offers the most advanced cross-margin trading bot, with price-monitoring and high-frequency.
 
 
 
